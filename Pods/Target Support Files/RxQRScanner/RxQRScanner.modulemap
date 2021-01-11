@@ -1,0 +1,6 @@
+framework module RxQRScanner {
+  umbrella header "RxQRScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
